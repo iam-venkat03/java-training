@@ -1,3 +1,5 @@
+#METHOD OVERRIDING
+
 public class Deer {
 	void run(){
 		System.out.println("eats plants");
